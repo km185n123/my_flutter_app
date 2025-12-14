@@ -120,6 +120,8 @@ Se configuraron **flavors** para permitir múltiples entornos (por ejemplo: desa
    ```bash
    flutter pub get
    ```
+   flutter gen-l10n
+   
 3. Generar adapters de Hive (opcional):
    ```bash
    flutter pub run build_runner build
