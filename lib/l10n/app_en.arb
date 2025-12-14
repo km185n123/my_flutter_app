@@ -1,0 +1,23 @@
+{
+  "appTitle": "Rick and Morty Favorites",
+  "charactersTitle": "Characters",
+  "favoritesTitle": "Favorites",
+  "searchPlaceholder": "Search characters...",
+  "retry": "Retry",
+  "noCharactersFound": "No characters found",
+  "errorLoading": "Error loading characters",
+  "save": "Save",
+  "delete": "Delete",
+  "preferenceNotFound": "Preference not found",
+  "customName": "Custom Name",
+  "originalName": "Original Name",
+  "species": "Species",
+  "status": "Status",
+  "enterCustomName": "Enter a custom name",
+  "preferenceSaved": "Preference saved",
+  "preferenceDeleted": "Preference deleted",
+  "emptyFavorites": "No favorites yet",
+  "addFavorite": "Add Favorite",
+  "details": "Details",
+  "unknown": "Unknown"
+}

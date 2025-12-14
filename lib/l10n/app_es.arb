@@ -1,0 +1,23 @@
+{
+  "appTitle": "Favoritos de Rick y Morty",
+  "charactersTitle": "Personajes",
+  "favoritesTitle": "Favoritos",
+  "searchPlaceholder": "Buscar personajes...",
+  "retry": "Reintentar",
+  "noCharactersFound": "No se encontraron personajes",
+  "errorLoading": "Error cargando personajes",
+  "save": "Guardar",
+  "delete": "Eliminar",
+  "preferenceNotFound": "Preferencia no encontrada",
+  "customName": "Nombre Personalizado",
+  "originalName": "Nombre Original",
+  "species": "Especie",
+  "status": "Estado",
+  "enterCustomName": "Ingresa un nombre personalizado",
+  "preferenceSaved": "Preferencia guardada",
+  "preferenceDeleted": "Preferencia eliminada",
+  "emptyFavorites": "Aún no hay favoritos",
+  "addFavorite": "Agregar Favorito",
+  "details": "Detalles",
+  "unknown": "Desconocido"
+}
